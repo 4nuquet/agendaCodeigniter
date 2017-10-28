@@ -1,0 +1,44 @@
+body{
+	position: relative;
+}
+
+table, td, th{
+	border: 2px solid #DDD;
+	text-align: left;
+	color: black;
+	font-family: Verdana;
+}
+
+th, td{
+	color: solid black;
+	padding: 15px;
+	background-color: #FFFFFF;
+}
+
+h1{
+	padding: 10px;
+}
+
+#create{
+	padding: 50px;
+	color: #FFF;
+	background-color: #00BF9A;
+	border-radius: 4px;
+}
+
+#find{
+	padding: 5px;
+	color: #FFF;
+	background-color: #00AA8D;
+	border-radius: 4px;
+}
+
+#find h1{
+	margin-top: 80px;
+}
+
+#edit{
+	padding: 50px;
+	color: #FFF;
+	background-color: #CC9966;
+}
